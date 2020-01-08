@@ -6,7 +6,7 @@ def mario(phrase)
   phrase = "It's-a me, Mario!"
 end
 
-mario(phrase)
+mario
 
 def toadstool
   puts status
