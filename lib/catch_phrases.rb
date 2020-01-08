@@ -7,7 +7,7 @@ def mario(phrase)
 
 end
 
-mario
+mario(phrase)
 
 
 
